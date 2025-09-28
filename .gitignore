@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Media Files
+*.mp4
+*.jpg
+*.png
+*.jpeg
