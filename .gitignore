@@ -1,6 +1,9 @@
 # Virtual Environment
 venv/
 
+#Models
+best.pt
+yolov8n.pt
 # Python Caches
 __pycache__/
 *.pyc
