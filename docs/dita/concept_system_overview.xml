@@ -1,0 +1,11 @@
+<concept>
+  <title>Dual-Model Traffic Control Framework Overview</title>
+  <body>
+    The system integrates two deep learning models:
+    one for real-time vehicle detection and one for
+    emergency vehicle identification.
+
+    Outputs from both models are processed by a deterministic
+    rule engine to dynamically control traffic signals.
+  </body>
+</concept>
