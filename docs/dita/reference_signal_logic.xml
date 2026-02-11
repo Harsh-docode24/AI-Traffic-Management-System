@@ -1,0 +1,8 @@
+<reference>
+  <title>Signal Decision Logic Reference</title>
+  <body>
+    <p>Vehicle Count Thresholds define congestion levels.</p>
+    <p>Green Signal Duration = Base Time + Density Adjustment.</p>
+    <p>Ambulance Detection triggers immediate override.</p>
+  </body>
+</reference>
