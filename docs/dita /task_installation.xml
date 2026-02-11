@@ -1,0 +1,10 @@
+<task>
+  <title>Installing the Traffic Management System</title>
+  <steps>
+    <step>Clone the repository.</step>
+    <step>Create a Python virtual environment.</step>
+    <step>Install dependencies from requirements.txt.</step>
+    <step>Download the trained model (best.pt).</step>
+    <step>Run the main system file.</step>
+  </steps>
+</task>
