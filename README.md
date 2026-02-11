@@ -238,7 +238,7 @@ Structured XML documentation modules are included in `/docs/dita`.
 
 # 13. Author
 
-Harsh Sehrawat
+Harsh 
 
 ---
 
