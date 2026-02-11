@@ -126,28 +126,28 @@ All signal decisions are rule-based, reproducible, and explainable.
 
 # 7. Project Structure
 
+```
 AI-Traffic-Management-System/
 │
 ├── src/
-│     └── realtime_api_ambulance.py
+│   └── realtime_api_ambulance.py
 │
 ├── docs/
-│     ├── dita/
-│     │     ├── concept_system_overview.xml
-│     │     ├── task_installation.xml
-│     │     └── reference_signal_logic.xml
-│     │
-│     ├── AI_Documentation_Workflow.md
-│     └── docs_style_guide.md
+│   ├── dita/
+│   │   ├── concept_system_overview.xml
+│   │   ├── task_installation.xml
+│   │   └── reference_signal_logic.xml
+│   │
+│   ├── AI_Documentation_Workflow.md
+│   └── docs_style_guide.md
 │
 ├── Research Paper/
-│     └── manuscript.pdf
+│   └── manuscript.pdf
 │
 ├── README.md
 └── .gitignore
+```
 
-
----
 
 # 8. Installation
 
